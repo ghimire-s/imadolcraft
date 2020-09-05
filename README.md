@@ -1,5 +1,5 @@
-##This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![Build Status](https://github.com/ghimire-s/imadolcraft)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
